@@ -11,7 +11,7 @@
 #   UD data to some directory, set UDBASE to that directory, and
 #   uncomment this line.  Alternatively, put UDBASE in your shell
 #   config, Windows env variables, etc as relevant.
-# export UDBASE=/path/to/UD
+export UDBASE=/Users/albin/git/stanza/ud
 
 # Set NERBASE to the location of NER data folder
 # The data should be BIO format or convertable to that format
